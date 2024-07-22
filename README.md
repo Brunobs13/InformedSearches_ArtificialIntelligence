@@ -7,7 +7,7 @@ This repository contains the solution for a project in the course "Introdução 
 ## Project Structure
 
 This project includes the following files:
-- `mainef.py`: Initial commit for EfolioB2201529BrunoFerreiraIIA.
+- `mainef.py`: file with the complete code.
 - `mapas.py`: Contains the maps and coordinates for the project.
 
 ## Instructions for Running the Code
